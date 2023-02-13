@@ -277,7 +277,7 @@ body {
   }
   
   .navbar .brand {
-    background: url('logo') no-repeat;
+    background: url('https://raw.githubusercontent.com/DenisStefanides/helpscout-css/master/img/logo.svg') no-repeat;
     background-size: 100%, auto;
     height: 30px;
     width: 150px;
