@@ -218,64 +218,28 @@ body {
   
   /* Category: icons */
   
-  #category-832 {
-    background-image: url(https://img.icons8.com/ios-glyphs/512/jake--v1.png);
+  #category-11 {
+    background-image: url(https://raw.githubusercontent.com/DenisStefanides/helpscout-css/master/img/docs-icon-integrations.jpg);
   }
   
-  #category-108 {
-    background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-tools.jpg');
+  #category-13 {
+    background-image: url(https://raw.githubusercontent.com/DenisStefanides/helpscout-css/master/img/docs-icon-integrations.jpg);
   }
   
-  #category-465 {
-    background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-reports.jpg');
+  #category-31 {
+    background-image: url(https://raw.githubusercontent.com/DenisStefanides/helpscout-css/master/img/docs-icon-integrations.jpg);
   }
   
-  #category-74 {
-    background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-copy-email.jpg');
+  #category-16 {
+    background-image: url(https://raw.githubusercontent.com/DenisStefanides/helpscout-css/master/img/docs-icon-integrations.jpg);
   }
   
-  #category-23 {
-    background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-conversations.jpg');
+  #category-15 {
+    background-image: url(https://raw.githubusercontent.com/DenisStefanides/helpscout-css/master/img/docs-icon-integrations.jpg);
   }
   
-  #category-230 {
-    background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-productivity.jpg');
-  }
-  
-  #category-24 {
-    background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-user-settings.jpg');
-  }
-  
-  #category-604 {
-    background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-mobile-apps.jpg');
-  }
-  
-  #category-234 {
-    background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-integrations.jpg');
-  }
-  
-  #category-1205 {
-    background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-start-with-beacon.jpg');
-  }
-  
-  #category-1358 {
-    background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-messages.jpg');
-  }
-  
-  #category-1211 {
-    background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-live-chat.jpg');
-  }
-  
-  #category-41 {
-    background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-working-with-docs.jpg');
-  }
-  
-  #category-126 {
-    background-image: url(https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-managing-docs.jpg);
-  }
-  
-  #category-217 {
-    background-image: url(https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-formatting-content.jpg);
+  #category-14 {
+    background-image: url(https://raw.githubusercontent.com/DenisStefanides/helpscout-css/master/img/docs-icon-integrations.jpg);
   }
   
   .nav-collapse .nav {
@@ -1606,7 +1570,6 @@ body {
   body div#hs-eu-cookie-confirmation div#hs-eu-cookie-confirmation-inner p:first-child,
   body div#hs-eu-cookie-confirmation div#hs-eu-cookie-confirmation-inner p:first-child {
       display: none;
-    }
   }
   
   @media screen and (max-width: 480px) {
