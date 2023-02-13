@@ -247,7 +247,7 @@ body {
   }
   
   .navbar .navbar-inner {
-    background-color: #404996;
+    background-color: #1b1b1b;
   }
   
   .navbar .nav > li > a {
@@ -272,7 +272,7 @@ body {
   
   .navbar .nav li a,
   .navbar .icon-private-w {
-    color: #D9DCFD;
+    color: #fff;
     transition: color 0.2s;
   }
   
@@ -359,7 +359,7 @@ body {
   /* Search Hero */
   
   #docsSearch h1 {
-    color: #232A5C;
+    color: #fff;
     display: block;
     font-size: 36px;
     font-weight: 500;
@@ -375,10 +375,10 @@ body {
   #docsSearch {
     position: relative;
     border: none;
-    background-color: #d3d6ff;
-    margin-bottom: 80px;
+    background-color: #757fff;
     padding: 0;
     position: relative;
+    padding-bottom: 6em
   }
   
   #docsSearch::before.
@@ -390,7 +390,7 @@ body {
     z-index: 2;
   }
   
-  @media screen and (max-width: 1024px) {
+  /* @media screen and (max-width: 1024px) {
     #docsSearch {
       height: 240px;
       background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-hero-illustration-left-mobile.png'), url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-hero-illustration-right-mobile.png');
@@ -398,20 +398,20 @@ body {
       background-size: auto 270px, auto 270px;
       background-repeat: no-repeat, no-repeat;
       margin-bottom: 50px;
-    }
+    } */
   
     #docsSearch h1 {
       max-width: 400px;
-      padding-top: 2em;
+      padding-top: 3em;
       padding-left: 10%;
       padding-right: 10%;
       font-size: 30px;
       line-height: 1.3;
       margin: 0 auto;
     }
-  }
   
-  @media screen and (min-width: 1025px) {
+  
+  /* @media screen and (min-width: 1025px) {
     #docsSearch::before {
       background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-hero-illustration-left.jpg');
       background-repeat: no-repeat;
@@ -425,9 +425,9 @@ body {
       transform: translateX(-50%);
       width: 515px;
       transition: left 0.2s;
-    }
+    } */
   
-    #docsSearch::after {
+    /* #docsSearch::after {
       background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-hero-illustration-right.jpg');
       background-repeat: no-repeat;
       background-size: cover;
@@ -440,9 +440,9 @@ body {
       transform: translateX(-50%);
       width: 515px;
       transition: left 0.2s;
-    }
+    } */
   
-    #contentArea::before {
+    /* #contentArea::before {
       content: '';
       left: 50%;
       position: absolute;
@@ -455,7 +455,7 @@ body {
       transform: translate(260px, 10px);
       transition: opacity 0.2s;
     }
-  }
+  } */
   
   @media screen and (min-width: 1025px) and (max-width: 1899px) {
     #docsSearch {
@@ -563,7 +563,7 @@ body {
   input[type=submit] {
     border: none;
     text-shadow: none;
-    background: #38408b;
+    background: #4F46E5;
     font-weight: 500;
     font-size: 17px;
     width: 160px;
@@ -656,7 +656,7 @@ body {
   
   @media screen and (min-width: 1025px) {
     #searchBar button {
-      background-color: #38408b;
+      background-color: #4F46E5;
       border-radius: 4px;
       border: none;
       font-size: 17px;
